@@ -1,0 +1,21 @@
+/* img{
+    height: 284px;
+    border-radius: 25px;
+
+} */
+body,html{
+    background-image: linear-gradient(to right top, #aae54b, #c2eb7a, #d7f1a4, #eaf7cd, #fbfdf6);
+}
+
+
+.lang-items{
+    list-style: none;
+}
+form{
+    box-shadow: 6px 6px 10px;
+    border-radius: 14px;
+}
+.home img{
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px;
+}
